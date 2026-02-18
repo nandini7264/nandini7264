@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 About Me:
+🎓 Data Analyst passionate about turning raw data into meaningful insights.  
 
-<!--
-**nandini7264/nandini7264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on : Dashboards, Visualization libraries and business insight projects using Python, SQL and visualization tools
+- 🌱 I’m currently learning : Advanced Python libraries and Statistics
+- 👯 I’m looking to collaborate on : Business analytics case studies and Real-world data projects
+- 🤔 I’m looking for help with EDA and Automation 
+- ⚡ Fun fact: I can normalize a database, but not my sleep schedule
 
-Here are some ideas to get you started:
+## 🌐 Socials:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/nandinimore/)
+[![Email](https://img.shields.io/badge/Email-white?logo=gmail)](mailto:nandinimore7264@gmail.com)
+
+## 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-yellow?logo=python)
+![SQL](https://img.shields.io/badge/mysql-green?logo=mysql)
+![Power BI](https://img.shields.io/badge/powerbi-yellow?logo=powerbi)
+![Pandas](https://img.shields.io/badge/pandas-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/numpy-blue?logo=numpy)
+![Matplotlib](https://img.shields.io/badge/matplotlib-orange)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![yt-dlp](https://img.shields.io/badge/yt--dlp-FF0000?logo=youtube&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=nandini7264&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nandini7264&layout=compact&theme=radical)
+
+
+
+
