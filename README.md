@@ -1,10 +1,10 @@
 # 👋 About Me:
 🎓 Data Analyst passionate about turning raw data into meaningful insights.  
 
-- 🔭 I’m currently working on : Dashboards, Visualization libraries and business insight projects using Python, SQL and visualization tools
-- 🌱 I’m currently learning : Advanced Python libraries and Statistics
+- 🔭 I’m currently working on : Statistical Analysis, Visualization libraries and business insight projects using Python, SQL and visualization tools
+- 🌱 I’m currently learning : Advanced Python libraries and Machine Learning
 - 👯 I’m looking to collaborate on : Business analytics case studies and Real-world data projects
-- 🤔 I’m looking for help with EDA and Automation 
+- 🤔 I’m looking for help with Automation 
 - ⚡ Fun fact: I can normalize a database, but not my sleep schedule
 
 ## 🌐 Socials:
